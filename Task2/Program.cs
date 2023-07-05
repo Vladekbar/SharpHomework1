@@ -10,6 +10,7 @@ if (numberA > numberB)
 {
     Console.WriteLine($"Большее число: {numberA}");
     Console.WriteLine($"Меньшее число: {numberB}");
+    
 }
 if (numberA < numberB)
 {
